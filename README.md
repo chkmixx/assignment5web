@@ -27,7 +27,7 @@ before:
 after:
 <img width="907" height="288" alt="image" src="https://github.com/user-attachments/assets/5bb6634d-b0ab-4df5-92b0-1c9324f67596" />
 
-here i entered my age and name, and it calculates based on the current time.
+here i entered age and name, and it calculates based on the current time.
 
 # Part 3: DOM Manipulation
 
