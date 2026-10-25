@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Profile</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <h1>My Personal Profile</h1>
+
+    <main class="container">
+
+        <section>
+            <h2>Create Your Profile</h2>
+
+            <form id="profileForm">
+                <label for="username">Username:</label>
+                <input
+                    type="text"
+                    id="username"
+                    placeholder="Enter your name"
+                    required
+                >
+
+                <label for="birthYear">Birth Year:</label>
+                <input
+                    type="number"
+                    id="birthYear"
+                    placeholder="Enter your birth year"
+                    min="1900"
+                    required
+                >
+
+                <button type="submit">Create / Update Profile</button>
+            </form>
+        </section>
+
+        <section id="profileResult">
+            <h2>Profile Information</h2>
+
+            <p>Name: <span id="displayName">Tomiris</span></p>
+            <p>Age: <span id="displayAge">18</span></p>
+            <p>Developer: <span id="displayDeveloper">Yes</span></p>
+            <p>Number of hobbies: <span id="displayHobbies">3</span></p>
+        </section>
+
+        <section>
+            <h2>My Hobbies</h2>
+
+            <ul id="hobbiesList">
+                <li>dancing</li>
+                <li>producing w music</li>
+                <li>playing football</li>
+               
+            </ul>
+
+            <label for="newHobby">Add a hobby:</label>
+            <input
+                type="text"
+                id="newHobby"
+                placeholder="Enter a new hobby"
+            >
+
+            <div class="button-group">
+                <button type="button" id="addHobby">Add Item</button>
+                <button type="button" id="removeHobby">Remove Item</button>
+            </div>
+        </section>
+
+    </main>
+
+</body>
+</html>
+
