@@ -38,6 +38,10 @@ because I deleted all the hobbies, it shows that there s nothing left to delete
 <img width="990" height="567" alt="image" src="https://github.com/user-attachments/assets/36815e19-6cd6-4459-b9fd-a12a3b5be852" />
 deleted the last item from the list
 
+<img width="1035" height="637" alt="image" src="https://github.com/user-attachments/assets/141a12d2-cd6d-4e0b-8033-b360dcb89f57" />
+added a new hobby and it lists as 4 hobbies
+
+
 
 
 
