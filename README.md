@@ -17,7 +17,11 @@ I used different data types:
 # Part 2: Form and Events
 
 I created a form where the user can enter a name and birth year. When the form is submitted, the profile information is updated.I used addEventListener() to handle the form submission.
-<img width="957" height="607" alt="image" src="https://github.com/user-attachments/assets/570bf4bb-4e7f-43f6-9eab-37e85c0051c0" />
+before:
+<img width="891" height="278" alt="image" src="https://github.com/user-attachments/assets/85027fcc-55fd-448f-90d2-bff2e86a9bd6" />
+after:
+<img width="907" height="288" alt="image" src="https://github.com/user-attachments/assets/5bb6634d-b0ab-4df5-92b0-1c9324f67596" />
+
 here i entered my age and name, and it calculates based on the current time.
 
 # Part 3: DOM Manipulation
