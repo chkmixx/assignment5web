@@ -2,7 +2,7 @@
 name:Tomiris Chekalin
 group:IT-2503
 
-# Part 1: Profile Object and Arithmetic
+# Part 1: Profile object and arithmetic
 
 I created a userProfile object with four properties: name, birthYear, isDeveloper and hobbies.
 
@@ -18,7 +18,7 @@ I used different data types:
 
 <img width="1291" height="732" alt="image" src="https://github.com/user-attachments/assets/67b55ac4-4512-45e3-900a-eed2b23b7322" />
 
-# Part 2: Form and Events
+# Part 2: Form and events
 
 I created a form where the user can enter a name and birth year. When the form is submitted, the profile information is updated.I used addEventListener() to handle the form submission.
 
