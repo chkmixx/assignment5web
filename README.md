@@ -7,10 +7,10 @@ group:IT-2503
 I created a userProfile object with four properties: name, birthYear, isDeveloper and hobbies.
 
 I used different data types:
-- String for the name
-- Number for the birth year
-- Boolean for developer status
-- Array for hobbies
+ String for the name
+ Number for the birth year
+ Boolean for developer status
+ Array for hobbies
 
 <img width="1291" height="732" alt="image" src="https://github.com/user-attachments/assets/67b55ac4-4512-45e3-900a-eed2b23b7322" />
 
