@@ -35,6 +35,12 @@ I added buttons to add and remove hobbies from the list.I used createElement(), 
 <img width="1027" height="337" alt="image" src="https://github.com/user-attachments/assets/65cab9bc-8ab3-4b1b-bf3b-d6a14b456765" />
 <img width="1856" height="980" alt="image" src="https://github.com/user-attachments/assets/ffcdda42-769a-47b8-a03c-6530f7eff37d" />
 because I deleted all the hobbies, it shows that there s nothing left to delete
+<img width="990" height="567" alt="image" src="https://github.com/user-attachments/assets/36815e19-6cd6-4459-b9fd-a12a3b5be852" />
+deleted the last item from the list
+
+
+
+
 
 ## Conclusion
 
